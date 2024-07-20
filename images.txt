@@ -1,2 +1,3 @@
 ngc7331/mcsmanager-daemon
 ngc7331/mcsmanager-web
+nginx
