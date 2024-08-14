@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.59.0
+octoprint/octoprint
