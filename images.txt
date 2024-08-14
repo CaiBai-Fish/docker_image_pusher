@@ -1,1 +1,1 @@
-openjdk:21
+snowdreamtech/frps:0.59.0
