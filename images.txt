@@ -1,1 +1,3 @@
-sonatype/nexus3:3.71.0
+openjdk:17
+openjdk:8
+openjdk:7
