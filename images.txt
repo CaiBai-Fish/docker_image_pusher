@@ -1,1 +1,1 @@
-snowdreamtech/frpc:latest
+drakkan/sftpgo:latest
