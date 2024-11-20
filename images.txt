@@ -1,1 +1,1 @@
-drakkan/sftpgo:latest
+openjdk:22
