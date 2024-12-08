@@ -1,1 +1,1 @@
-openjdk:22
+snowdreamtech/frpc:0.61.0
