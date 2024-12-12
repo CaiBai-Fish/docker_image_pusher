@@ -1,1 +1,1 @@
-snowdreamtech/frpc:0.61.0
+invelop/wine-novnc:latest
