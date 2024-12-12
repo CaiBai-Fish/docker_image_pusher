@@ -1,1 +1,1 @@
-invelop/wine-novnc:latest
+solarkennedy/wine-x11-novnc-docker
