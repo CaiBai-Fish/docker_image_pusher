@@ -1,1 +1,1 @@
-solarkennedy/wine-x11-novnc-docker
+halohub/halo-pro:2.20.17
