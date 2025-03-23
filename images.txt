@@ -1,1 +1,1 @@
-halohub/halo-pro:2.20.17
+snowdreamtech/frpc:0.61.2
