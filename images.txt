@@ -1,1 +1,1 @@
-haproxy
+ghcr.io/bluemap-minecraft/bluemap
